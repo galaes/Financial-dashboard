@@ -12,3 +12,29 @@ This project showcases a financial analysis dashboard built using Excel, Google 
 
 ### Dataset
 
+The dataset from Kaggle (https://www.kaggle.com/datasets/buny12345/financial-sample-power-bi-dashboard) contains the following key features:
+
+- Segment: 
+- Country:
+- Product:
+- Units Sold:
+- Sale Price:
+- Gross Sales:
+- Sales:
+- COGS:
+- Profit:
+- Date: Date
+
+## Tools
+
+- Excel: 
+
+## Methodology
+### 1. Data Collection and Preparation
+### 2. Descriptive Analysis.
+### 3. Data Visualization
+Excel Dashboard
+
+<img
+
+### 4. Insights and Findings
