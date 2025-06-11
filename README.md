@@ -5,6 +5,7 @@
   - [Dataset](#dataset)
   - [Tools](#tools)
   - [Methodology](#methodology)
+  - [Insights and Findings](#insights-and-findings)
 
 ### Objective
 
@@ -52,7 +53,7 @@ The dataset from Kaggle (https://www.kaggle.com/datasets/buny12345/financial-sam
 
 <img src="images/excel_dashboard.png" width="50%" alt="images">
 
-[Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1jRZ4mYS42yR1UPARqchxGpmeELmqhREugNSkoPzuViw/edit?usp=drive_link)
+[Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1jRZ4mYS42yR1UPARqchxGpmeELmqhREugNSkoPzuViw/edit?usp=sharing)
 
 <img src="images/GoogleSheets_dashboard.png" width="50%" alt="images">
 
