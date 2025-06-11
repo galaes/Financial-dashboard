@@ -27,11 +27,30 @@ The dataset from Kaggle (https://www.kaggle.com/datasets/buny12345/financial-sam
 - Power BI: Built an interactive BI version using DAX for KPI logic, slicers for user-driven filtering, and conditional formatting for data highlights
 
 ## Methodology
-### 1. Data Collection and Preparation
-### 2. Descriptive Analysis.
-### 3. Data Visualization
-Excel Dashboard
+### 1. Data Cleaning and Preparation
 
+- Checked date and numeric fields
+- Added derived columns like Profit Margin and Month-Year
+
+### 2. KPI Creation
+
+- Total Sales, Total Profit, Units Sold, Average Profit Margin
+
+### 3. Dashboard Development
+
+- Excel: Created slicer-driven pivot visuals and KPI cards with conditional formatting
+- Google Sheets: Used dropdown filters + dynamic formulas to replicate slicer behavior
+- Power BI: Created dynamic visuals using DAX, and configured slicer-to-visual interactions
 <img
 
-### 4. Insights and Findings
+### 4. Design Standardization
+
+- Consistent visual layout across all tools
+- Used icons, color formatting, and structured sections for clarity
+
+## Insights and Findings
+
+- Seasonal trends: Sales and profits showed strong performance in specific months
+- Country-level analysis: Some countries consistently outperformed others in both revenue and margin
+- Product profitability: Certain products had high sales volume but low profit margin, indicating cost inefficiencies
+- Segment behavior: Differences between Government and Midmarket segments highlighted distinct purchasing patterns
