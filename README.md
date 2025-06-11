@@ -56,7 +56,7 @@ The dataset from Kaggle (https://www.kaggle.com/datasets/buny12345/financial-sam
 
 <img src="images/GoogleSheets_dashboard.png" width="50%" alt="images">
 
-[Power BI Dashboard]()
+[Power BI Dashboard](https://github.com/galaes/Financial-dashboard/blob/4af67fe00576437ca64eee50994798329eff5974/Financial%20Performance%20Dashboard.pbix)
 
 <img src="images/PowerBI_dashboard.png" width="50%" alt="images">
 
