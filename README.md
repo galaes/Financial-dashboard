@@ -48,7 +48,7 @@ The dataset from Kaggle (https://www.kaggle.com/datasets/buny12345/financial-sam
 - Consistent visual layout across all tools
 - Used icons, color formatting, and structured sections for clarity
 
-[Excel Dashboard]()
+[Excel Dashboard](https://github.com/galaes/Financial-dashboard/blob/c60a086ecb112728a9747a5a4ba4f8cb8a33b658/Excel%20Dashboard.xlsx)
 
 <img src="images/excel_dashboard.png" width="50%" alt="images">
 
