@@ -49,12 +49,15 @@ The dataset from Kaggle (https://www.kaggle.com/datasets/buny12345/financial-sam
 - Used icons, color formatting, and structured sections for clarity
 
 [Excel Dashboard]()
+
 <img src="images/excel_dashboard.png" width="50%" alt="images">
 
 [Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1jRZ4mYS42yR1UPARqchxGpmeELmqhREugNSkoPzuViw/edit?usp=drive_link)
+
 <img src="images/GoogleSheets_dashboard.png" width="50%" alt="images">
 
 [Power BI Dashboard]()
+
 <img src="images/PowerBI_dashboard.png" width="50%" alt="images">
 
 ## Insights and Findings
